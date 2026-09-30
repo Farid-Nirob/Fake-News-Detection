@@ -5,17 +5,6 @@ articles as **fake** or **real**. Text preprocessing and TF-IDF feature
 extraction are used to convert news articles into numerical features for
 classification.
 
-## Repository Structure
-
-Fake-News-Detection/
-├── README.md
-├── notebooks/
-│   └── Fake_News_Detection.ipynb
-├── docs/
-│   └── Fake News Detection.pdf
-└── .gitignore
-
-
 ## Dataset
 
 The project uses two CSV files:
